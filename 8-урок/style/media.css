@@ -1,0 +1,33 @@
+@media (max-width: 1400px){
+    
+}
+@media (max-width: 1200px){
+    .films__content{
+        flex-wrap: wrap;
+    }
+   
+    
+}
+@media (max-width: 992px){
+    .films-content{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 768px ){
+    
+}
+@media (max-width: 576px ){
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
